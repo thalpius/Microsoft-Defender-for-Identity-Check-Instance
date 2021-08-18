@@ -1,5 +1,7 @@
 # Microsoft-Defender-for-Identity-Check-Instance
 
+This script gets all accepted domains in Microsoft 365 using autodiscover, gets the tenant name and checks if there is a Microsoft Defender for Identity instance. This way you can figure out if the comapny runs Microsoft Defender for Identity.
+  
 # Screenshots
 
 When MDI instance is found:
