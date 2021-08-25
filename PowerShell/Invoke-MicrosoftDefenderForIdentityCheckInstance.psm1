@@ -130,7 +130,7 @@ function Get-TenantName {
         }
     }
 }
-function Invoke-CheckMicrosoftDefenderForIdentity {
+function Invoke-MicrosoftDefenderForIdentityCheckInstance {
     Param(
         [parameter(Mandatory = $true, HelpMessage = "Specify a domain")]
         [ValidateNotNullOrEmpty()]
