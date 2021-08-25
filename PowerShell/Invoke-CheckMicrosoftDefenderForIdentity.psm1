@@ -17,7 +17,7 @@
  
 .EXAMPLE
 
-  Invoke-CheckMicrosoftDefenderForIdentity -Domain thalpius.com
+  Invoke-MicrosoftDefenderForIdentityCheckInstance -Domain thalpius.com
 
 .INPUTS
  
@@ -31,7 +31,7 @@
  
   Version:        0.1
   Author:         R. Roethof
-  Creation Date:  07/18/2021
+  Creation Date:  08/18/2021
   Website:        https://thalpius.com
   Purpose/Change: Initial script development
 
