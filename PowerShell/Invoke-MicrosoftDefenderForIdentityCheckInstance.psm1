@@ -7,7 +7,7 @@
  
   This script gets all accepted domains in Microsoft 365 using autodiscover, gets the tenant name
   and checks if there is a Microsoft Defender for Identity instance. This way you can figure out
-  if the comapny runs Microsoft Defender for Identity.
+  if the company runs Microsoft Defender for Identity.
 
   Note: https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-oxwsadisc/18fe58cd-3761-49da-9e47-84e7b4db36c2
 
