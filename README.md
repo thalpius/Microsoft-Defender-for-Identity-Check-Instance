@@ -5,6 +5,7 @@ This script gets all accepted domains in Microsoft 365 using autodiscover, gets 
 # Example
 
 Import-Module Invoke-MicrosoftDefenderForIdentityCheckInstance.psm1
+
 Invoke-MicrosoftDefenderForIdentityCheckInstance -Domain thalpius.com
 
 # Screenshots
