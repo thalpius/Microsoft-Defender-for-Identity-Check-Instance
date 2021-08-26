@@ -10,11 +10,7 @@
   if the comapny runs Microsoft Defender for Identity.
 
   Note: https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-oxwsadisc/18fe58cd-3761-49da-9e47-84e7b4db36c2
- 
-.PARAMETER
- 
-  Domain name of the company like thalpius.com.
- 
+
 .EXAMPLE
 
   Invoke-MicrosoftDefenderForIdentityCheckInstance -Domain thalpius.com
